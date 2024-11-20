@@ -5,6 +5,10 @@ Hi, I'm Naveen Kumar Attaluri. I'm a cybersecurity enthusiast with a strong focu
 * Python,Java,JavaScript
 * HTML,CSS
 * Git,AWS,SQL
+
+* ### Contact Information
+* Email:naveenkumarinfo24@gmail.com
+* LinkedIn:https://www.linkedin.com/in/naveen-kumar-attaluri-9068b0307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 <!--
 **naveenkumar-att/naveenkumar-att** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
