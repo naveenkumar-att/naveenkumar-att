@@ -1,6 +1,10 @@
 # Naveen Kumar Attaluri
 Hi, I'm Naveen Kumar Attaluri. I'm a cybersecurity enthusiast with a strong focus on defensive strategies and techniques. Passionate about securing systems, I specialize in vulnerability assessments, threat mitigation, and incident response. At the same time, I am continuously exploring offensive security techniques to better understand adversarial tactics and enhance defensive measures. I believe in a proactive approach to cybersecurity and am dedicated to bridging the gap between both sides of the security spectrum.
 
+## Skills and Technologies
+* Python,Java,JavaScript
+* HTML,CSS
+* Git,AWS,SQL
 <!--
 **naveenkumar-att/naveenkumar-att** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
