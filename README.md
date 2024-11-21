@@ -7,7 +7,13 @@ Hi, I'm Naveen Kumar Attaluri. I'm a cybersecurity enthusiast with a strong focu
 * Git,AWS,SQL
 
  ### Projects
- 
+ *Tic Tac Tae
+   Tic Tac Toe, also known as "Noughts and Crosses" or "X's and O's," is a classic two-player strategy game. Played on a 3x3 grid, the objective is to be the first player to align three of your marks (X or O) either horizontally, vertically, or diagonally.
+Rules:
+Players take turns placing their marks in an empty square.
+The game ends when one player forms a row of three marks or when the grid is full (resulting in a draw).
+The first player typically plays "X," and the second player plays "O."
+Tic Tac Toe is a simple yet engaging game that encourages strategic thinking and pattern recognition, making it enjoyable for all ages.
 
  #### Contact Information
 * Email:naveenkumarinfo24@gmail.com
