@@ -6,7 +6,10 @@ Hi, I'm Naveen Kumar Attaluri. I'm a cybersecurity enthusiast with a strong focu
 * HTML,CSS
 * Git,AWS,SQL
 
- ### Contact Information
+ ### Projects
+ 
+
+ #### Contact Information
 * Email:naveenkumarinfo24@gmail.com
 * LinkedIn:https://www.linkedin.com/in/naveen-kumar-attaluri-9068b0307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 <!--
